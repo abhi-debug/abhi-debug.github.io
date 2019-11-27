@@ -11,7 +11,7 @@
         {
 		"id":3 ,
 		"title": "Best",
-		"url": "https://abhi-debug.github.io/Caption/Motivation/"
+		"url": "https://abhi-debug.github.io/Caption/Best/"
 	},
         {
 		"id": 4,
@@ -21,18 +21,18 @@
         {
 		"id": 5,
 		"title": "Selfie",
-		"url": "https://abhi-debug.github.io/Caption/Motivation/"
+		"url": "https://abhi-debug.github.io/Caption/Selfie/"
 	},
         {
 		"id": 6,
 		"title": "clever",
-		"url": "https://abhi-debug.github.io/Caption/Motivation/"
+		"url": "https://abhi-debug.github.io/Caption/clever/"
 	},
         {
 		"id": 7,
 		"title": "Love",
 		"completed": false,
-		"url": "https://abhi-debug.github.io/Caption/Motivation/"
+		"url": "https://abhi-debug.github.io/Caption/Love/"
 	},
         {
 		"id": 8,

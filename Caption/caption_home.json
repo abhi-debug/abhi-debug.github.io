@@ -3,21 +3,6 @@
 		"title": "ALL",
 		"url": "https://abhi-debug.github.io/Caption/All/"
 	},
- {
-    		"id": 1,
-		"title": "ALL",
-		"url": "https://abhi-debug.github.io/Caption/All/"
-	},
- {
-    		"id": 1,
-		"title": "ALL",
-		"url": "https://abhi-debug.github.io/Caption/All/"
-	},
- {
-    		"id": 1,
-		"title": "ALL",
-		"url": "https://abhi-debug.github.io/Caption/All/"
-	},
 	{
 		"id": 2,
 		"title": "General",
@@ -75,49 +60,15 @@
 		"title": "Sad",
 		"url": "https://abhi-debug.github.io/Caption/Sad/"
 	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
-   {
-		"id": 12,
-		"title": "Sad",
-		"url": "https://abhi-debug.github.io/Caption/Sad/"
-	},
+  
   {
 		"id": 13,
 		"title": "Savage",
 		"url": "https://abhi-debug.github.io/Caption/Savage/"
+	},
+ {
+		"id": 14,
+		"title": "Demo",
+		"url": "https://abhi-debug.github.io/Caption/demo.json"
 	}
 ]

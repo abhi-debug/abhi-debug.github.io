@@ -4,70 +4,57 @@
 		"url": "https://abhi-debug.github.io/Caption/All/"
 	},
 	{
-		"id": 2,
 		"title": "General",
 		"url": "https://abhi-debug.github.io/Caption/General/"
 	},
         {
-		"id":3 ,
 		"title": "Best",
 		"url": "https://abhi-debug.github.io/Caption/Best/"
 	},
         {
-		"id": 4,
 		"title": "Motivation",
 		"url": "https://abhi-debug.github.io/Caption/Motivation/"
 	},
         {
-		"id": 5,
 		"title": "Selfie",
 		"url": "https://abhi-debug.github.io/Caption/Selfie/"
 	},
         {
-		"id": 6,
 		"title": "Clever",
 		"url": "https://abhi-debug.github.io/Caption/Clever/"
 	},
         {
-		"id": 7,
 		"title": "Love",
 		"completed": false,
 		"url": "https://abhi-debug.github.io/Caption/Love/"
 	},
         {
-		"id": 8,
 		"title": "Cute",
 		"url": "https://abhi-debug.github.io/Caption/Cute/"
 	},
     
 	{
-		"id": 9,
 		"title": "Cool",
 		"url": "https://abhi-debug.github.io/Caption/Cool/"
 	},
   {
-		"id": 10,
 		"title": "Fitness",
 		"url": "https://abhi-debug.github.io/Caption/Fitness/"
 	},
   {
-		"id": 11,
 		"title": "Funny",
 		"url": "https://abhi-debug.github.io/Caption/Funny/"
 	},
   {
-		"id": 12,
 		"title": "Sad",
 		"url": "https://abhi-debug.github.io/Caption/Sad/"
 	},
   
   {
-		"id": 13,
 		"title": "Savage",
 		"url": "https://abhi-debug.github.io/Caption/Savage/"
 	},
  {
-		"id": 14,
 		"title": "demo",
 		"url": "https://abhi-debug.github.io/Caption/demo.json"
 	}
